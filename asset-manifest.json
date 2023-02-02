@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/personal/static/css/main.32a2e702.css",
+    "main.js": "/personal/static/js/main.58a9cdb6.js",
+    "static/media/Portofolio-web.pdf": "/personal/static/media/Portofolio-web.1a5ce0d0accc899d6a30.pdf",
+    "static/media/Kotak.jpeg": "/personal/static/media/Kotak.7216a9be1d5f20458b94.jpeg",
+    "static/media/testimonial3.png": "/personal/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/personal/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/personal/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/personal/index.html",
+    "main.32a2e702.css.map": "/personal/static/css/main.32a2e702.css.map",
+    "main.58a9cdb6.js.map": "/personal/static/js/main.58a9cdb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32a2e702.css",
+    "static/js/main.58a9cdb6.js"
+  ]
+}
