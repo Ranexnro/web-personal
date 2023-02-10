@@ -1,3 +1,7 @@
+// MUHAMAD KEVIN FAIRUZ
+// IF-9
+//10122346
+
 import React from 'react';
 import './App.css';
 import Header from './components/header/Header.jsx'
