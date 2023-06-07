@@ -1,7 +1,7 @@
 import React from 'react';
 import "./about.css";
 import AboutImg from "../../assets/Kotak.jpeg";
-import CV from "../../assets/Portofolio-web.pdf";
+import CV from "../../assets/Muhamad Kevin Fairuz.pdf";
 import Info from './Info';
 
 
